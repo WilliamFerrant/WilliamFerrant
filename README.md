@@ -1,59 +1,50 @@
-# 👋 Salut, je suis William !
+# 👋 Hi, I'm William!
 
-**Développeur Full-Stack Freelance spécialisé en Next.js**
+**Full-Stack Developer & Freelance | Next.js Specialist**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Building+modern+full-stack+apps+with+Next.js;TypeScript+%7C+Tailwind+%7C+Prisma;Freelance+%7C+Open+to+new+opportunities)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Building+modern+full-stack+applications;Specialized+in+Next.js+14%2F15;TypeScript+%7C+Tailwind+%7C+Prisma;Open+to+freelance+and+full-time+opportunities)
 
-## 🚀 À propos de moi
-Je suis un développeur full-stack passionné par la création d'applications web **rapides, scalables et belles**.  
-Spécialisé dans l'écosystème **Next.js** (App Router, Server Actions, Server Components), je construis des solutions complètes du frontend au backend.
+## 🚀 About Me
+I'm a passionate **Full-Stack Developer** specialized in the **Next.js** ecosystem.  
+I build fast, scalable, and beautiful web applications from frontend to backend, with a strong focus on performance, UX, and clean code.
 
-Actuellement **freelance** et **ouvert aux nouvelles missions** (CDI, freelance ou projets ponctuels) — en remote ou Grand Est.
+Currently **freelance** and **open to new opportunities** — freelance missions, CDI, or interesting projects (remote or hybrid).
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
-![William's Stack](https://skillicons.dev/icons?i=nextjs,typescript,tailwind,prisma,react,nodejs,postgresql,supabase,vercel,git,docker)
+![William's Stack](https://skillicons.dev/icons?i=nextjs,typescript,tailwind,prisma,react,nodejs,postgresql,supabase,vercel,docker,git)
 
-**Expertise principale :**
-- **Frontend** → Next.js 14/15, React, TypeScript, Tailwind CSS, shadcn/ui
-- **Backend & Data** → Server Actions, Prisma ORM, PostgreSQL, Supabase
-- **Auth & Paiements** → NextAuth/Auth.js, Stripe, Clerk
-- **Déploiement** → Vercel (expert), Docker
-- **Autres** → tRPC, Zod, TanStack Query, Jest/Playwright
+### Core Expertise:
+- **Frontend** — Next.js (App Router, Server Components, Server Actions), React, TypeScript, Tailwind CSS, shadcn/ui
+- **Backend & Database** — Prisma ORM, PostgreSQL, Supabase, Server Actions
+- **Authentication & Payments** — Auth.js (NextAuth), Clerk, Stripe
+- **Tools** — Vercel, tRPC, Zod, TanStack Query, Docker, Jest / Playwright
 
-## 🔥 Projets phares
+## 📊 GitHub Stats
 
-- **[Nom du Projet 1](lien-du-repo)** — Application SaaS full-stack avec Next.js App Router, Prisma + PostgreSQL, paiement Stripe et dashboard admin. (Démo live + 100% TypeScript)
-- **[Nom du Projet 2](lien-du-repo)** — Plateforme e-commerce moderne avec panier, authentification et optimisation SEO/performance.
-- **[Nom du Projet 3](lien-du-repo)** — Dashboard analytique avec Server Components et données en temps réel.
+![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamFerrant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-> Chaque projet a un README détaillé avec captures d'écran, stack technique, lien de démo et instructions d'installation.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFerrant&layout=compact&theme=tokyonight&hide_border=true)
 
-## 📊 Mes stats GitHub
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilliamFerrant&theme=tokyonight)
 
-![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+## 🌱 Currently Learning / Exploring
+- Advanced **Next.js + Turborepo** monorepos
+- Integrating **LLMs** into Next.js applications
+- Improving MLOps and deployment best practices
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+## 💼 What I'm Looking For
+- **Freelance missions** focused on Next.js (3 to 12 months preferred)
+- **Full-time positions** as Full-Stack / Next.js Developer (remote or hybrid)
+- Interesting projects where I can deliver high value quickly
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight)
-
-## 🌱 Ce que je fais en ce moment
-- Approfondissement du **MLOps léger** et des **LLM intégrés** dans Next.js
-- Expérimentation avec **Next.js + Turborepo** pour les monorepos
-- Ouvert à des collaborations sur des projets open-source Next.js
-
-## 💼 Je recherche actuellement
-- Missions **freelance** en Next.js (idéalement 3 à 12 mois)
-- Opportunités **CDI** en Full-Stack / Next.js (remote ou hybride)
-- Projets intéressants où je peux apporter de la valeur rapidement
-
-## 📫 Me contacter
-- **Email** : william@tonemail.fr
-- **LinkedIn** : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
-- **Portfolio / Site perso** : [tonsite.fr](https://tonsite.fr)
-- **Calendly** (pour un call rapide) : [calendly.com/william-dev](https://calendly.com/...)
+## 📫 Let's Connect
+- **Email** — william@your-email.com
+- **LinkedIn** — [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Portfolio / Personal Website** — [yourwebsite.com](https://yourwebsite.com)
+- **Calendly** (quick call) — [calendly.com/william-dev](https://calendly.com/...)
 
 ---
 
-**Merci d'être passé !**  
-Si tu as un projet Next.js ou une opportunité intéressante, n'hésite pas à me contacter 🚀
+**Thanks for visiting!**  
+If you have a Next.js project or an exciting opportunity, feel free to reach out — I'm always happy to discuss new ideas. 🚀
