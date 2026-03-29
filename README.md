@@ -22,9 +22,9 @@ Currently **freelance** and **open to new opportunities**, freelance missions, C
 
 ## GitHub Stats
 
-![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamFerrant&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![William's GitHub Stats]()
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFerrant&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WilliamFerrant&layout=compact&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilliamFerrant&theme=tokyonight)
 
