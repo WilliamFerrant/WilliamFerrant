@@ -46,3 +46,7 @@ Currently **freelance** and **open to new opportunities**, freelance missions, C
 
 **Thanks for visiting!**  
 If you have a Next.js project or an exciting opportunity, feel free to reach out I'm always happy to discuss new ideas.
+
+https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WilliamFerrant&layout=compact&theme=tokyonight
+
+https://github-readme-streak-stats-eight.vercel.app/?user=WilliamFerrant&theme=tokyonight
