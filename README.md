@@ -41,7 +41,7 @@ Currently **freelance** and **open to new opportunities**, freelance missions, C
 ## Let's Connect
 - **Email** - ferrantwilliam@gmail.com
 - **LinkedIn** - [williamferrant](https://www.linkedin.com/in/williamferrant/)
-- **Portfolio / Personal Website** - [my portfolio]([https://yourwebsite.com](https://williamferrant-dev.vercel.app/))
+- **Portfolio / Personal Website** - [my portfolio](https://williamferrant-dev.vercel.app/)
 ---
 
 **Thanks for visiting!**  
