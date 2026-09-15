@@ -1,16 +1,11 @@
 # William Ferrant
 
-Full-stack developer specialized in **Next.js**.
+Full-stack developer specialized in Next.js.
 
-I build production-grade web applications with a strong focus on performance, clean architecture and developer experience.  
-Currently freelance and open to new opportunities.
+I design and build production web applications with a focus on performance, clean architecture and long-term maintainability.  
+Currently freelance. Open to selected missions and full-time opportunities.
 
-**Stack**  
-Next.js · React · TypeScript · Tailwind · Prisma · PostgreSQL · Supabase · tRPC · Auth.js · Stripe · Vercel
-
-**Looking for**
-- Freelance missions (Next.js focused, 3–12 months)
-- Full-time roles as Full-Stack / Next.js Developer (remote or hybrid)
+**Stack** — Next.js, React, TypeScript, Tailwind, Prisma, PostgreSQL, Supabase, tRPC, Auth.js, Stripe, Vercel
 
 **Contact**  
 [ferrantwilliam@gmail.com](mailto:ferrantwilliam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/williamferrant/) · [Portfolio](https://williamferrant-dev.vercel.app)
